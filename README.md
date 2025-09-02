@@ -89,5 +89,5 @@ This project is licensed under the MIT License.
 
 ---
 
-👩‍💻 **Contributors**: \[Your Name]
-📧 For queries: [your-email@example.com](mailto:your-email@example.com)
+👩‍💻 **Contributors**: Jansirani
+📧 For queries: janudayana34@gmail.com
